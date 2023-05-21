@@ -8,3 +8,5 @@ To execute:
 To test:
 
 `telnet localhost:9091`
+
+Send a string, receive it back.
